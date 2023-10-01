@@ -1,2 +1,2 @@
 # Algorithm_preparation
-Algorithm_preparation for beginners in  coding
+Algorithm preparation for beginners in  coding
